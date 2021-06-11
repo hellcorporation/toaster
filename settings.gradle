@@ -1,0 +1,3 @@
+rootProject.name = "SdkSample"
+include ':app'
+include ':toster'
